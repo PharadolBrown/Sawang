@@ -11,5 +11,6 @@ Access the application [here](https://pharadolbrown.github.io/Sawang/)
 ```bash
 git clone https://github.com/PharadolBrown/Sawang.git
 
-### Navigate to the Project Directory
-cd Sawang
+
+### 2. Navigate to the Project Directory
+    cd Sawang
